@@ -19,7 +19,7 @@ Clone the repository (if you're using Git):
 
 Bash
 
-git clone https://github.com/YOUR_USERNAME/prayer-times-app.git
+git clone https://github.com/abdussaboor/prayer-times-app.git
 cd prayer-times-app
 If you downloaded a zip file, just unzip it and navigate into the prayer-times-app folder in your Terminal.
 
